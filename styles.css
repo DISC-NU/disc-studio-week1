@@ -1,4 +1,16 @@
-.testClass {
-    text-align: center;
-    color: blue;
+* {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.skills {
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    flex-flow: column nowrap;
+}
+
+.h-skills {
+    margin-left: 35px;
+    
 }
