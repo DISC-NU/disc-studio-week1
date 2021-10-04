@@ -26,6 +26,10 @@
     margin-right: auto;
 }
 
+.link {
+    margin-left: -0.5px;
+}
+
 .textBox {
     border: 1px solid black;
     padding: 5px;
