@@ -1,4 +1,14 @@
-.testClass {
+.textCenter {
     text-align: center;
-    color: blue;
+}
+
+.imageCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textBox {
+    border: 2px solid black;
+    padding: 5px;
 }
