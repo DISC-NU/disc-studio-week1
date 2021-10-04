@@ -31,7 +31,15 @@ h3 {
     border: 5px dotted black;
 }
 
-
 .l-contactme {
     margin-top: -15px;
+}
+
+.link {
+    margin-left: -0.5px;
+}
+
+.textBox {
+    border: 1px solid black;
+    padding: 5px;
 }
