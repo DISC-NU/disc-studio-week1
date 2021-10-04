@@ -1,6 +1,7 @@
 * {
     margin-left: 5px;
     margin-right: 5px;
+    font-family: 'Montserrat';
 }
 
 .skills {
@@ -10,21 +11,22 @@
     flex-flow: column nowrap;
 }
 
-.h-skills {
-    margin-left: 35px;
+.l-skills {
+    margin-left: -20px;
+    margin-top: -10px;
 }
 
-.textCenter {
+.name {
     text-align: center;
 }
 
-.imageCenter {
+.profilepic {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.textBox {
-    border: 2px solid black;
+.aboutme {
+    border: 1px solid black;
     padding: 5px;
 }
