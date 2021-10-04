@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin-left: 5px;
     margin-right: 5px;
@@ -13,4 +14,19 @@
 .h-skills {
     margin-left: 35px;
     
+=======
+.textCenter {
+    text-align: center;
+}
+
+.imageCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textBox {
+    border: 2px solid black;
+    padding: 5px;
+>>>>>>> c848cff73ba4ed2441cc2dc0647a5addf7b83f71
 }
