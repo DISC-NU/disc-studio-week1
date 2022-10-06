@@ -7,3 +7,51 @@
 .title {
   text-align: center;
 }
+
+.clients-header {
+  color: rgb(250, 75, 75);
+}
+
+.timeline-header {
+  display: flex;
+  justify-content: flex-end;
+  color: rgb(218, 105, 218);
+}
+
+.info-header {
+  color: brown;
+}
+
+.image-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.image {
+  height: 50px;
+  width: auto;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+
+.image:not(:last-child) {
+  margin-right: 50px;
+}
+
+.info-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+table, tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px 10px;
+}
